@@ -1,0 +1,20 @@
+.img{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url(img/annie-spratt-wuc-KEIBrdE-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.t-c{
+    color: rgb(39, 52, 69);
+}
+
+.b-c{
+   background-color: rgba(39, 52, 69, 0.6);
+   
+}
+
+.r-c{
+    background-color: rgba(107, 79, 87, 0.5);
+}
